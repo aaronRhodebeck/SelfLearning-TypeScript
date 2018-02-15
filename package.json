@@ -1,0 +1,24 @@
+{
+  "name": "self-learning-typescript",
+  "version": "1.0.0",
+  "description": "A playground for playing with TypeScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine-ts \"spec/**/*.spec.ts\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aaronRhodebeck/SelfLearning-TypeScript.git"
+  },
+  "author": "Aaron Rhodebeck",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aaronRhodebeck/SelfLearning-TypeScript/issues"
+  },
+  "homepage": "https://github.com/aaronRhodebeck/SelfLearning-TypeScript#readme",
+  "devDependencies": {
+    "@types/jasmine": "^2.8.6",
+    "jasmine-spec-reporter": "^4.2.1",
+    "jasmine-ts": "^0.2.1"
+  }
+}
